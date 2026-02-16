@@ -14,7 +14,7 @@ This dashboard empowers HR teams to **reduce turnover, improve employee satisfac
 
 ---
 
-## ✨  Features  
+## ✨  Key Features  
 -  **Employee Overview Cards**: Total Employees, Attrition %, Active Employees.  
 -  **Gender-based Analysis**: Attrition and active employees segmented by male and female.  
 -  **Department & Role Insights**: Attrition breakdown by job role, job level, and department.  
@@ -27,7 +27,7 @@ This dashboard empowers HR teams to **reduce turnover, improve employee satisfac
 
 ---
 
-## 📷 Screenshots
+## 📷 Dashboard Preview
 
 ### HR Attrition Dashboard
 ![HR Attrition Dashboard](screenshots/Main%20Dashboard%20.png)
